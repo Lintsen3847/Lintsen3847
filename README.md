@@ -18,9 +18,8 @@
 <p align="left">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/-ViolentMonkey-black?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIGZpbGw9IiMzMzMiLz48L3N2Zz4=" />
+  <img src="https://img.shields.io/badge/-python-black?style=for-the-badge&logo=python" />
+
 </p>
 
 ---
