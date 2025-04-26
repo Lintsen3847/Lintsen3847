@@ -30,8 +30,7 @@
 
 ## 📝 Notable Projects
 - [Threads-Volume](https://github.com/Lintsen3847/threads-volume) - Customize Threads video volumes easily
-- **Discord Bot Hosting** - Self-hosted bots on Raspberry Pi using Linux and PM2
-- **Discord Rich Presence** - Custom RPC scripts for personalized status
+- **Discord Bot Hosting** - Self-hosted bots on Raspberry Pi
 - **Iron Man Prop Project** - Arduino Nano + 3D printing prototypes
 
 ---
