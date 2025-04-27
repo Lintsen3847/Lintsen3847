@@ -46,4 +46,4 @@
 
 ---
 
-> "I never sleep today, I sleep tomorrow." — Always curious. 🚀
+> *"I never sleep today, I sleep tomorrow."* — Just alive. 💤
