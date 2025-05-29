@@ -33,7 +33,7 @@
 ---
 
 ## 📝 Notable Projects
-- **ViolentMonkey script making** - Pave way for Net-surfing
+- **ViolentMonkey Script Writing** - Pave way for Net-surfing
 - **Discord Bot Hosting** - Self-hosted bots on Raspberry Pi
 - **Iron Man Project** - Arduino Nano + 3D printing prototypes
 
