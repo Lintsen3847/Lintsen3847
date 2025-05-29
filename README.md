@@ -33,7 +33,7 @@
 ---
 
 ## 📝 Notable Projects
-- [Threads-Volume](https://github.com/Lintsen3847/threads-volume) - Customize Threads video volumes easily
+- **ViolentMonkey script making** - Pave way for Net-surfing
 - **Discord Bot Hosting** - Self-hosted bots on Raspberry Pi
 - **Iron Man Project** - Arduino Nano + 3D printing prototypes
 
