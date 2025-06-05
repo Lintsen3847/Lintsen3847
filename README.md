@@ -2,10 +2,6 @@
 <h3 align="center">A beginner passionate about animation, automation, and creative mini-projects!</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lintsen3847&label=Profile%20views&color=0e75b6&style=flat" alt="Lintsen3847" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C%20I'm%20Lin_tsen.;I%20build%20useful%20mini%20projects.;I%20love%20automation%20but%20not%20coding.;Always%20curious%20and%20never%20stop%20learning!&center=true&width=500&height=50&duration=3000&pause=500&color=0E75B6&vCenter=true&size=24" alt="Typing SVG" />
 </p>
 
