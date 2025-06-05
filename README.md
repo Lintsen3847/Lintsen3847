@@ -10,7 +10,7 @@
 ## 🚀 About Me
 - 🌱 Currently learning **JavaScript**, **UserScripts**, **Linux server management**, and **Web Automation**
 - 🤖 Built Discord bots and hosted them on **Raspberry Pi**
-- 🛠️ Created personal tools like **Threads-Volume** to solve daily annoyances
+- 🛠️ Created personal tools in **Violent Monkey** to solve daily annoyances
 - 🔥 Made **Iron Man props** (arm and helmet!) using **Arduino** + **3D printing**
 - 🎯 Passionate about small projects that make life easier, automation, and tinkering with systems
 - 📚 Always curious about new technologies and open-source projects
@@ -32,13 +32,6 @@
 - **ViolentMonkey Script Writing** - Pave way for Net-surfing
 - **Discord Bot Hosting** - Self-hosted bots on Raspberry Pi
 - **Iron Man Project** - Arduino Nano + 3D printing prototypes
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lintsen3847&show_icons=true&theme=tokyonight" alt="Lintsen3847" />
-</p>
 
 ---
 
