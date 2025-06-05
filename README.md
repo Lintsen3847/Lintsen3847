@@ -35,10 +35,6 @@
 
 ---
 
-> *"I never sleep today, I sleep tomorrow."* — Just alive. 💤
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -52,3 +48,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lintsen3847&layout=compact&theme=tokyonight&hide=html" alt="Top Langs" />
 </p>
+
+---
+
+> *"I never sleep today, I sleep tomorrow."* — Just alive. 💤
