@@ -36,3 +36,19 @@
 ---
 
 > *"I never sleep today, I sleep tomorrow."* — Just alive. 💤
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lin-tsen&show_icons=true&theme=tokyonight&hide=prs&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lin-tsen&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lin-tsen&layout=compact&theme=tokyonight&hide=html" alt="Top Langs" />
+</p>
