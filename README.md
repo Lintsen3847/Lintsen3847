@@ -30,4 +30,4 @@
 
 ---
 
-> *"I never sleep today, I sleep tomorrow."* — Just alive. 💤
+> *"I never sleep today, I sleep tomorrow."*
