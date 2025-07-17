@@ -1,33 +1,59 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C%20I'm%20Lin_tsen.;I%20build%20useful%20mini%20projects.;I%20love%20automation%20but%20not%20coding.;Always%20curious%20and%20never%20stop%20learning!&center=true&width=500&height=50&duration=3000&pause=500&color=0E75B6&vCenter=true&size=24" alt="Typing SVG" />
-</p>
-
----
-
-## 🛠️ Languages and Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux" />
-  <img src="https://img.shields.io/badge/-Arduino-black?style=for-the-badge&logo=arduino" />
-</p>
-
----
-
-## 📊 GitHub Stats
+<h1 align="center">Hii</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lintsen3847&show_icons=true&theme=tokyonight&hide=prs&count_private=true" alt="GitHub Stats" />
+  <img src="https://count.getloli.com/get/@Lintsen3847" alt="Visitor Count" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lintsen3847&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lintsen3847&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
+
+<h3 align="center">Platform</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lintsen3847&layout=compact&theme=tokyonight&hide=html" alt="Top Langs" />
+  <a href="https://www.microsoft.com/windows/">
+    <img src="https://img.shields.io/badge/Windows-11-0078D6?style=flat-square&logo=windows&logoColor=ffffff" />
+  </a>
+  <a href="https://www.debian.org/">
+  <img src="https://img.shields.io/badge/Linux-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff" />
+  </a>
 </p>
 
----
+<h3 align="center">IDE</h3>
 
-> *"I never sleep today, I sleep tomorrow."*
+<p align="center">
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  </a>
+</p>
+
+<h3 align="center">Languages</h3>
+
+<p align="center">
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" />
+  </a>
+</p>
+
+<h3 align="center">Tools</h3>
+
+<p align="center">
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff" />
+  </a>
+  <a href="https://kernel.org/">
+    <img src="https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white" />
+  </a>
+  <a href="https://nodejs.org/">
+    <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff" />
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff" />
+  </a>
+  <a href="https://www.arduino.cc/">
+    <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
+  </a>
+</p>
