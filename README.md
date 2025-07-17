@@ -1,6 +1,10 @@
 <h1 align="center">Hii</h1>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Lintsen3847/data/main/banner.jpg" alt="Banner" width="600" />
+</p>
+
+<p align="center">
   <img src="https://count.getloli.com/get/@Lintsen3847" alt="Visitor Count" />
 </p>
 
