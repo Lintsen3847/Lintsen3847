@@ -1,19 +1,19 @@
-<h1 align="center">Hii</h1>
+<h1>Hii</h1>
 
-<p align="center">
+<p>
   <img src="https://count.getloli.com/get/@Lintsen3847" alt="Visitor Count" />
 </p>
 
-<h3 align="center">Operating System 作業系統</h3>
+<h3>Operating System 作業系統</h3>
 
-<p align="center">
+<p>
   <a href="https://www.microsoft.com/windows/"><img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff" /></a>
   <a href="https://www.debian.org/"><img src="https://img.shields.io/badge/Linux-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff" /></a>
 </p>
 
-<h3 align="center">Learning Status 學習狀態</h3>
+<h3>Learning Status 學習狀態</h3>
 
-<p align="center">
+<p>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" /></a>
   <a href="https://www.arduino.cc/"><img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" /></a> 
@@ -23,6 +23,6 @@
   <a href=""><img src="https://img.shields.io/badge/-MikuMikuDance-ff69b4?style=flat-square" /></a>
 </p>
 
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/Lintsen3847/data/main/banner_1.jpg" alt="Banner" width="600" />
 </p>
