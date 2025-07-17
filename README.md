@@ -5,8 +5,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lintsen3847&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lintsen3847&layout=compact&theme=tokyonight&card_width=300" />
 </p>
+
 
 <h3 align="center">Platform</h3>
 
@@ -36,4 +38,8 @@
   <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff" /></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff" /></a>
   <a href="https://www.arduino.cc/"><img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lintsen3847&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
