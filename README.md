@@ -1,10 +1,6 @@
 <h1 align="center">Hii</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Lintsen3847/data/main/banner_1.jpg" alt="Banner" width="600" />
-</p>
-
-<p align="center">
   <img src="https://count.getloli.com/get/@Lintsen3847" alt="Visitor Count" />
 </p>
 
@@ -25,4 +21,8 @@
   <a href="https://bambulab.com/"><img src="https://img.shields.io/badge/-BambuLab-2E3A59?style=flat-square&logo=3d&logoColor=ffffff" /></a>
   <a href="https://www.onshape.com/"><img src="https://img.shields.io/badge/-Onshape-1B5FAA?style=flat-square&logo=autodesk&logoColor=ffffff" /></a>
   <a href=""><img src="https://img.shields.io/badge/-MikuMikuDance-ff69b4?style=flat-square" /></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lintsen3847/data/main/banner_1.jpg" alt="Banner" width="600" />
 </p>
