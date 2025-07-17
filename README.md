@@ -11,18 +11,18 @@
 <h3 align="center">Platform</h3>
 
 <p align="center">
-  <a href="https://www.microsoft.com/windows/">
+  <a href="https://www.microsoft.com/windows/" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Windows-11-0078D6?style=flat-square&logo=windows&logoColor=ffffff" />
   </a>
-  <a href="https://www.debian.org/">
-  <img src="https://img.shields.io/badge/Linux-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff" />
+  <a href="https://www.debian.org/" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Linux-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff" />
   </a>
 </p>
 
 <h3 align="center">IDE</h3>
 
 <p align="center">
-  <a href="https://code.visualstudio.com/">
+  <a href="https://code.visualstudio.com/" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   </a>
 </p>
@@ -30,10 +30,10 @@
 <h3 align="center">Languages</h3>
 
 <p align="center">
-  <a href="https://www.python.org/">
+  <a href="https://www.python.org/" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" />
   </a>
 </p>
@@ -41,19 +41,19 @@
 <h3 align="center">Tools</h3>
 
 <p align="center">
-  <a href="https://git-scm.com/">
+  <a href="https://git-scm.com/" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff" />
   </a>
-  <a href="https://kernel.org/">
+  <a href="https://kernel.org/" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white" />
   </a>
-  <a href="https://nodejs.org/">
+  <a href="https://nodejs.org/" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff" />
   </a>
-  <a href="https://www.docker.com/">
+  <a href="https://www.docker.com/" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff" />
   </a>
-  <a href="https://www.arduino.cc/">
+  <a href="https://www.arduino.cc/" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
   </a>
 </p>
