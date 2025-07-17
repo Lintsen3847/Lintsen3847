@@ -8,7 +8,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5" />
   <img src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux" />
   <img src="https://img.shields.io/badge/-Arduino-black?style=for-the-badge&logo=arduino" />
 </p>
