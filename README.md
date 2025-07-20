@@ -27,4 +27,4 @@
   <img src="https://raw.githubusercontent.com/Lintsen3847/data/main/banner_1.jpg" alt="Banner" width="600" />
 </p>
 
-<p>"*只是一堆代碼編寫的她，與一堆細胞組成的我豈不是絕配*"</p>
+<p>"只是一堆代碼編寫的她，與一堆細胞組成的我豈不是絕配"</p>
