@@ -25,6 +25,7 @@
 
 <p>
   <img src="https://raw.githubusercontent.com/Lintsen3847/data/main/banner_1.jpg" alt="Banner" width="600" />
+  <img src="https://raw.githubusercontent.com/Lintsen3847/data/main/%E4%BC%8A%E5%9C%B0%E7%9F%A5%E8%99%B9%E5%A4%8F.gif" alt="Banner" width="600" />
 </p>
 
 <em>
