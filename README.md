@@ -28,6 +28,6 @@
   <img src="https://raw.githubusercontent.com/Lintsen3847/data/main/banner_1.jpg" alt="Banner" width="600" />
 </p>
 
-<p align="center">
-  <a href="https://discordapp.com/user/656476069062508554"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=ffffff" /></a>
+<p>
+  <a href="https://discordapp.com/users/656476069062508554"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=ffffff" /></a>
 </p>
