@@ -1,8 +1,9 @@
 <h1>Hii</h1>
 
 <p>
-    <a href="https://linchu.dpdns.org">
+    <a href="https://linchu.dpdns.org">LinChu.dpdns.org</a>
 </p>
+        
 <p>
   <img src="https://count.getloli.com/get/@Lintsen3847" alt="Visitor Count" />
 </p>
