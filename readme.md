@@ -29,7 +29,7 @@
 
 
 <p>
-  <a href="https://discordapp.com/users/656476069062508554"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=ffffff" /></a>
+  <a href="https://discord.gg/SB8tNNM8Td"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=ffffff" /></a>
   <a href="https://greasyfork.org/zh-TW/users/1462479-lintsen3847"><img src="https://img.shields.io/badge/GreasyFork-3A3A3A?style=flat-square&logo=greasyfork&logoColor=ffffff" /></a>
 </p>
 
